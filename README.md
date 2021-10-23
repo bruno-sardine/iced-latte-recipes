@@ -1,7 +1,7 @@
 # Matcha Latte Recipes
 
-  [Starbucks Matcha Latte](#starbucks-matcha-latte)
-  [Hazelnut Vanilla Matcha Latte](#hazelnut-vanilla-matcha-latte)
+[Starbucks Matcha Latte](#starbucks-matcha-latte)
+[Hazelnut Vanilla Matcha Latte](#hazelnut-vanilla-matcha-latte)
 
 ## **Starbucks Matcha Latte**
 
