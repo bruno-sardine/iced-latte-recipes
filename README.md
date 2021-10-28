@@ -1,8 +1,9 @@
 # Iced Latte Recipes
 
-[Starbucks Matcha Latte](#starbucks-matcha-latte)
-[Hazelnut Vanilla Matcha Latte](#hazelnut-vanilla-matcha-latte)
-[Pumpkin Spiced Latte](#pumpkin-spiced-latte)
+### Table of Contents
+- [Starbucks Matcha Latte](#starbucks-matcha-latte)
+- [Hazelnut Vanilla Matcha Latte](#hazelnut-vanilla-matcha-latte)
+- [Pumpkin Spiced Latte](#pumpkin-spiced-latte)
 
 ## **Starbucks Matcha Latte**
 
