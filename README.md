@@ -4,6 +4,7 @@
 - [Starbucks Matcha Latte](#starbucks-matcha-latte)
 - [Hazelnut Vanilla Matcha Latte](#hazelnut-vanilla-matcha-latte)
 - [Pumpkin Spiced Latte](#pumpkin-spiced-latte)
+- [Jura S8 Recipes](https://github.com/bruno-sardine/Jura-Recipes/blob/main/README.md)
 
 ## **Starbucks Matcha Latte**
 
