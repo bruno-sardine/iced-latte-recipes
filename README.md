@@ -1,9 +1,15 @@
 # Iced Latte Recipes
 
+###### All prep unless otherwise stated:
+Using a cocktail shaker, mix all ingredients for about 1 minute.  Pour over ice.
+
 ### Table of Contents
 - [Starbucks Matcha Latte](#starbucks-matcha-latte)
 - [Hazelnut Vanilla Matcha Latte](#hazelnut-vanilla-matcha-latte)
 - [Pumpkin Spiced Latte](#pumpkin-spiced-latte)
+- [Coconut Matcha](#coconut-matcha)
+- [Coconut Honey Matcha](#coconut-honey-matcha)
+- [Hazy Matcha](#hazy-matcha)
 - [Jura S8 Recipes](https://github.com/bruno-sardine/Jura-Recipes/blob/main/README.md)
 
 ## **Starbucks Matcha Latte**
@@ -16,9 +22,6 @@
 ###### Notes:
 Starbucks uses .5 oz (15g) syrup.  Our household likes 1 oz (30g).
 
-###### Prep:
-Using a cocktail shaker, mix all ingredients for about 1 minute.  Pour over ice.
-
 ## **Hazelnut Vanilla Matcha Latte**
 
 ```
@@ -28,9 +31,6 @@ Using a cocktail shaker, mix all ingredients for about 1 minute.  Pour over ice.
 8 oz whole milk
 ```
 
-###### Prep:
-Using a cocktail shaker, mix all ingredients for about 1 minute.  Pour over ice.
-
 ## **Pumpkin Spiced Latte**
 
 ```
@@ -39,5 +39,28 @@ Using a cocktail shaker, mix all ingredients for about 1 minute.  Pour over ice.
 8oz whole milk
 ```
 
-###### Prep:
-Using a cocktail shaker, mix all ingredients for about 1 minute.  Pour over ice.
+## **Coconut Matcha**
+
+```
+1 tsp Matcha Powder
+1 oz Coconut Syrup
+8 oz Coconut Milk
+Dash of Lavender Bitters
+```
+
+## **Coconut Honey Matcha**
+```
+1 tsp Matcha Powder
+3/4 oz Coconut Syrup
+3/4 oz Honey
+8 oz Coconut Milk
+Dash of Lavender Bitters
+```
+
+## **Hazy Matcha**
+```
+1 tsp Matcha Powder
+1 oz Hazelnut Syrup
+8 oz whole milk
+```
+
