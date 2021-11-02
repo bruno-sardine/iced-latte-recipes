@@ -16,11 +16,9 @@ Using a cocktail shaker, mix all ingredients for about 1 minute.  Pour over ice.
 
 ```
 1 tsp Matcha Powder
-1 oz Vanilla Syrup (Torani brand)
+1 3/4 oz Vanilla Syrup (Torani brand)
 8 oz whole milk
 ```
-###### Notes:
-Starbucks uses .5 oz (15g) syrup.  Our household likes 1 oz (30g).
 
 ## **Hazelnut Vanilla Matcha Latte**
 
