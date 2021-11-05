@@ -50,7 +50,7 @@ Dash of Lavender Bitters
 ```
 1 tsp Matcha Powder
 3/4 oz Coconut Syrup
-3/4 oz Honey
+1/4 oz Honey
 8 oz Coconut Milk
 Dash of Lavender Bitters
 ```
