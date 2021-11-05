@@ -4,28 +4,28 @@
 Using a cocktail shaker, mix all ingredients for about 1 minute.  Pour over ice.
 
 ### Table of Contents
-- [Starbucks Matcha Latte](#starbucks-matcha-latte)
-- [Hazelnut Vanilla Matcha Latte](#hazelnut-vanilla-matcha-latte)
+- [Starbux Matcha Latte](#starbux-matcha-latte)
+- [FauxTail Hazelnut Matcha Latte](#fauxtail-hazelnut-matcha-latte)
 - [Pumpkin Spiced Latte](#pumpkin-spiced-latte)
 - [Coconut Matcha](#coconut-matcha)
 - [Coconut Honey Matcha](#coconut-honey-matcha)
 - [Hazy Matcha](#hazy-matcha)
 - [Jura S8 Recipes](https://github.com/bruno-sardine/Jura-Recipes/blob/main/README.md)
 
-## **Starbucks Matcha Latte**
+## **Starbux Matcha Latte**
 
 ```
 1 tsp Matcha Powder
-1 3/4 oz Vanilla Syrup (Torani brand)
+1 1/2 oz Vanilla Syrup (Torani brand)
 8 oz whole milk
 ```
 
-## **Hazelnut Vanilla Matcha Latte**
+## **FauxTail Hazelnut Matcha Latte**
 
 ```
 1 tsp Matcha Powder
-1 tbsp (15g / .5 oz) Sugar Free Hazlenut Syrup (The Secret Garden Gourmet Flavored Syrup brand)
-1 tbsp (15g / .5 oz) Vanilla Syrup (Torani brand)
+3/4 oz Sugar Free Hazlenut Syrup (The Secret Garden Gourmet Flavored Syrup brand)
+1 1/4 oz Simple Syrup
 8 oz whole milk
 ```
 
