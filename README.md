@@ -16,7 +16,7 @@ Using a cocktail shaker, mix all ingredients for about 1 minute.  Pour over ice.
 
 ```
 1 tsp Matcha Powder
-1 1/2 oz Vanilla Syrup (Torani brand)
+1 1/2 oz (4 pumps) Vanilla Syrup (Torani brand)
 8 oz whole milk
 ```
 
